@@ -1,4 +1,4 @@
-package com.shubh.javakafka;
+package com.ridup.chat.test;
 
 import com.ridup.chat.KafkaJavaApp;
 import org.junit.jupiter.api.Test;
@@ -12,3 +12,4 @@ class KafkaJavaApplicationTests {
     }
 
 }
+aaa
