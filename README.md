@@ -56,9 +56,3 @@ npm start
 
 #### 发送消息
 ![](https://cdn.jsdelivr.net/gh/ridup/PicGo-Images/blog/20210531005813.png)
-
-aaa
-aaa
-aaa
-aaa
-aaa
